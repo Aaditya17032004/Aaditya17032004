@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://global-news-markdown-app.vercel.app" />
+<img src="https://global-news-markdown-app.vercel.app" width="500px" heigh="500px"/>
 <!--
 **Aaditya17032004/Aaditya17032004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
